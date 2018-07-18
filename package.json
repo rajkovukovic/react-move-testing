@@ -1,0 +1,22 @@
+{
+  "name": "react-move-testing",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "d3-array": "^1.2.1",
+    "d3-ease": "^1.0.3",
+    "d3-scale": "^2.1.0",
+    "d3-shape": "^1.2.0",
+    "lodash": "^4.17.10",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-move": "^2.7.0",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
